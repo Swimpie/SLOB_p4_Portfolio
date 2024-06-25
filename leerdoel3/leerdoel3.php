@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Je ontwikkelt studievaardigheden en kunt deze inzetten</h1>
 </body>
 </html>
