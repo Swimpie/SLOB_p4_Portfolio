@@ -6,10 +6,42 @@
     <title>PDF Bootstrap Card</title>
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .card {
+            width: 18rem;
+            margin: 0 auto;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        .card img {
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            height: 250px;
+            object-fit: cover;
+        }
+        .card-title {
+            color: #007bff;
+            font-weight: bold;
+        }
+        .card-text {
+            color: #6c757d;
+        }
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+            border-radius: 5px;
+        }
+        .btn-primary:hover {
+            background-color: #0056b3;
+        }
+    </style>
 </head>
 <body>
     <div class="container mt-5">
-        <div class="card" style="width: 18rem;">
+        <div class="card">
             <img src="leerdoel1/brief.png" class="card-img-top" alt="PDF thumbnail">
             <div class="card-body">
                 <h5 class="card-title">PDF Bestand</h5>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Portfolio Kevin</title>
+<title>Portfolio Sven</title>
 <style>
        body {
            display: flex;
@@ -13,7 +13,7 @@
 </style>
 </head>
 <body>
-<h1>De portfolio van Kevin</h1>
+<h1>De portfolio van Sven Borremans</h1>
 <h3>Van welk leerdoel wil jij de opdrachten zien</h3>
 <p><a href="../SLOB/leerdoel1/leerdoel1.php">Weet goed wat deze opleiding inhoudt en of deze opleiding bij je past</a></p>
 <p><a href="../SLOB/leerdoel2/leerdoel2.php">Je kunt je persoonlijke kwaliteiten benoemen en uitleggen</a></p>
